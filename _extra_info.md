@@ -1,6 +1,7 @@
 ---
 blog_root: /blog
-site_title: Jim Lloyd's Blog
+site_title: The Scientific Worldview
+template_url: https://github.com/telegr-am/template-green.git
 
 ---
 
