@@ -1,5 +1,7 @@
 title: About
 
+# About
+
 ## About the Author
 
 Jim Lloyd is a software engineer and father in his 50s, living in San Francisco. He has loved science since childhood.
