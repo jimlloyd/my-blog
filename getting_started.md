@@ -1,6 +1,5 @@
 not_on_menu: true
 title: Getting Started
-order: 40
 
 This page will help you get started with Telegram!  Yay!
 
