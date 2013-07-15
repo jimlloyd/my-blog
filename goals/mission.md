@@ -1,6 +1,4 @@
 not_on_menu: true
-title: Mission Statement
-author: Jim Lloyd
 
 ## Mission Statement 
 
