@@ -1,3 +1,7 @@
+[title: Mission Statement]
+[author: Jim Lloyd]
+[not_in_menu: true]
+
 ## Mission Statement 
 
 This site is a work in progress and might eventually be published as a book. 
