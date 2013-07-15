@@ -1,6 +1,6 @@
-[title: Mission Statement]
-[author: Jim Lloyd]
-[not_in_menu: true]
+title: Mission Statement
+author: Jim Lloyd
+not_in_menu: true
 
 ## Mission Statement 
 
