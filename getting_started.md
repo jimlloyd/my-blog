@@ -1,3 +1,4 @@
+not_on_menu: true
 title: Getting Started
 order: 40
 
