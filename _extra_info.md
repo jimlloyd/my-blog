@@ -1,7 +1,7 @@
 ---
 blog_root: /blog
 site_title: The Scientific Worldview
-template_url: https://github.com/telegr-am/template-green.git
+template_url: https://github.com/telegr-am/template-blue.git
 
 ---
 
