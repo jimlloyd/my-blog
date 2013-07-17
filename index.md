@@ -1,12 +1,26 @@
 ## Welcome
 
-Welcome to your new Telegram site.  Check out the [Getting Started](/getting_started) page
-for information on how to set up your site.
+Welcome to **The Scientific Worldview**.  
 
-<span data-lift="if?extra_true=has_blog">Welcome to my blog.  Here are my most recent blog posts:</span>
+*This site is a work in progress.*
 
-<div data-lift="if?extra_true=has_blog">
-      <div data-lift="blog.simple"></div>
-</div>
+### Purpose
+This site is written for people who (for whatever reason) *don't* have a scientific worldview, but are curious understand to understand better what it is *like* to be someone that holds a scientific worldview.
+ 
+### What is a *worldview*?
 
-[title: Home]: /
+We'll use this definiton for *[worldview](http://www.thefreedictionary.com/worldview)* as taken from The Free Dictionary:
+
+**worldview**
+
+1. The overall perspective from which one sees and interprets the world.
+2. A collection of beliefs about life and the universe held by an individual or a group.
+
+Your worldview influences how you see and interpret the world. Your current beliefs about life and the universe influence how you interpret your experiences. Everyone has a worldview, because everyone has set of beliefs that influence how they interpret their experiences.
+
+### What is *science*?
+
+Science is most often discussed as if it were a body of knowledge. But science is really best understood as a method for gaining knowledge about the natural world. The method is known as the Scientific Method.
+
+
+[title: Welcome]: /
