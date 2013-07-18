@@ -22,9 +22,9 @@ It may seem odd that we claim that your beliefs cause you to intrepret your expe
 
 ### What is *science*?
 
-Science is most often discussed as if it were a body of knowledge. But science is really best understood as a method for gaining knowledge about the natural world. The method is known as the Scientific Method, which is a topic that deserves its own section.
+Science is most often discussed as if it were a body of knowledge. But science is really best understood as a method for gaining knowledge about the natural world. The method is known as the **[Scientific Method](/the_scientific_method)**.
 
-[1]: http://www.thefreedictionary.com/worldview "Definition of *worldview*"
-[2]: http://www.thefreedictionary.com/ "The Free Dictionary"
+[1]: http://www.thefreedictionary.com/worldview
+[2]: http://www.thefreedictionary.com/
 
 [title: Welcome]: /
